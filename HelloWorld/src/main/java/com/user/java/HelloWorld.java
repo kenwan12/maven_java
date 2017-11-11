@@ -1,4 +1,4 @@
-package com.kdp.java;
+package com.user.java;
 
 public class HelloWorld {
 
